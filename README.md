@@ -10,7 +10,7 @@ Wanderlust - a web application which brings together all the travel enthusiasts!
   -> Browse  through  the events that are hosted by others.
   -> Find your intrests and choose the best event according to your preferences.
   -> Join the group and find create your own tribe and have an amazing vacay.
-  -> Can  host your event in future.
+  -> Can  host your own event in future.
 ![login](https://user-images.githubusercontent.com/109290447/202246066-a680aedc-21cb-455a-ae22-21a7025e3e77.png)
 
 ![Home](https://user-images.githubusercontent.com/109290447/202247584-2ab1a358-087f-46bb-8949-30cca19af8d0.png)
